@@ -1,0 +1,3 @@
+.hor-navbar-container{
+display:flex;
+}
